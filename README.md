@@ -1,7 +1,7 @@
-### Tudo bom ? Prazer José Augusto
+## Olá, Eu sou o Augusto.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/zehguto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehguto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehguto&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -13,7 +13,6 @@
   <img align="center" alt="zeh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zeh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="zeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  
   
   ##
  
