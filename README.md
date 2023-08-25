@@ -1,4 +1,4 @@
-## Olá, Eu sou o Augusto.
+## Hello Augusto, here!, welcome to my world .
 
 <div align="center">
   <a href="https://github.com/zehguto">
